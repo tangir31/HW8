@@ -1,6 +1,6 @@
 body {
   background-color: #808080;
-  margin: 20px; /* отступ от боди */
+  margin: 20px; 
   padding: 0;
   color: white;
 }
@@ -33,16 +33,16 @@ body {
   
 .button-container {
   position: absolute;
-  bottom: 20px; /* отступ снизу */
+  bottom: 20px; 
   margin: 20px;
 }
   
 .purple-button {
   background-color: rgb(104, 19, 153);
-  padding: 20px; /* увеличенный отступ кнопки */
-  border: none; /* убрана рамка */
+  padding: 20px; 
+  border: none; 
   border-radius: 15px;
-  box-shadow: none; /* убрана тень */
+  box-shadow: none; 
   color: white;
 }
   
